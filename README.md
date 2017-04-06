@@ -1,2 +1,4 @@
-# Folsom
-Folsom Security Application
+## Folsom Encryption Application
+
+File Encryption Engine
+Nic Mays, 2017
